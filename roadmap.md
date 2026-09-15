@@ -2,6 +2,7 @@
 
 ## App #1: Personal AI Assistant
 - [x] Cloud backend: tables, RLS, storage bucket
+- [ ] Complete and verify the assistant as a live, mobile-responsive product
 - [ ] Auth (email/password + Google) with email allowlist gate
 - [ ] Shell: app rail, chat sidebar, theme tokens, light/dark
 - [ ] Streaming chat + markdown/code/tables/links
